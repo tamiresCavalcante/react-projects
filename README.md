@@ -11,3 +11,7 @@
 ## Crypto Price
 
 ![image](https://user-images.githubusercontent.com/69002877/152651556-09d997b5-bffd-4f73-a2b7-6d4e4474b9c4.png)
+
+## Birthday Remider
+
+![image](https://user-images.githubusercontent.com/69002877/152992636-6ee56163-73b6-4ad2-a639-157344f8063f.png)
