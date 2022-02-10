@@ -20,3 +20,5 @@
 
 ![image](https://user-images.githubusercontent.com/69002877/153003387-3e633891-7184-4340-90a6-b50fe01c4aee.png)
 
+## Small Shopping Cart
+![image](https://user-images.githubusercontent.com/69002877/153326872-fc5802b1-abe0-4ca9-a508-47cf9c284ffd.png)
