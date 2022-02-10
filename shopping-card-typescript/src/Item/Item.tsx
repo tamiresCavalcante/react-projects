@@ -1,11 +1,10 @@
 import { Button } from "@mui/material";
 
 //Types
-
 import { CartItemType } from "../App";
 
 //Styles
-import { Wrapper } from "../App.style";
+import { Wrapper } from './Item.styles';
 
 type Props = {
     item: CartItemType;
@@ -20,7 +19,7 @@ const Item: React.FC<Props> = ({ item, handleAddToCart }) => (
             <p>{item.description}</p>
             <h3>${item.price}</h3>
         </div>
-    <Button onClick={() => console.log()}>Add to cart</Button>
+        <Button onClick={() => handleAddToCart(item)}>Add to cart</Button>
     </Wrapper>
 )
 
