@@ -25,3 +25,6 @@
 
 ## Simple Login Screen
 ![image](https://user-images.githubusercontent.com/69002877/153518574-562e9c48-94e6-48de-863e-ace9d81bd034.png)
+
+## CRUD
+![image](https://user-images.githubusercontent.com/69002877/153658797-3680ef8a-26c1-47dc-8656-86457db203e4.png)
