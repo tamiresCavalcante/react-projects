@@ -28,3 +28,6 @@
 
 ## CRUD
 ![image](https://user-images.githubusercontent.com/69002877/153658797-3680ef8a-26c1-47dc-8656-86457db203e4.png)
+
+## Shopping Cart Typescript
+![image](https://user-images.githubusercontent.com/69002877/153779467-c24c8659-e773-4824-ae1f-b393f4026a22.png)
