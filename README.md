@@ -17,8 +17,7 @@
 ![image](https://user-images.githubusercontent.com/69002877/152992636-6ee56163-73b6-4ad2-a639-157344f8063f.png)
 
 ## Tours App
-
-![image](https://user-images.githubusercontent.com/69002877/153003387-3e633891-7184-4340-90a6-b50fe01c4aee.png)
+![image](https://user-images.githubusercontent.com/69002877/154325089-85b8f6d1-3546-4cfa-9ae0-3b5d3883fc9a.png)
 
 ## Small Shopping Cart
 ![image](https://user-images.githubusercontent.com/69002877/153326872-fc5802b1-abe0-4ca9-a508-47cf9c284ffd.png)
