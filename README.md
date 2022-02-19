@@ -40,3 +40,5 @@
 ## Crud Redux
 ![image](https://user-images.githubusercontent.com/69002877/154779262-ab48bbb7-ced7-4986-8ec1-a7b62d4e9eb6.png)
 
+## Recipe App
+![preview](https://user-images.githubusercontent.com/69002877/154812518-e26173a2-d3e1-45d2-ad59-9cc4100f849a.png)
