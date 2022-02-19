@@ -36,3 +36,7 @@
 
 ## Todo List Typescript
 ![image](https://user-images.githubusercontent.com/69002877/154556673-01e1b829-3833-4a03-a099-56c31ce0953d.png)
+
+## Crud Redux
+![image](https://user-images.githubusercontent.com/69002877/154779262-ab48bbb7-ced7-4986-8ec1-a7b62d4e9eb6.png)
+
