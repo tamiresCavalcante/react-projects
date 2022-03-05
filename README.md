@@ -29,7 +29,8 @@
 ![image](https://user-images.githubusercontent.com/69002877/153658797-3680ef8a-26c1-47dc-8656-86457db203e4.png)
 
 ## Shopping Cart Typescript
-![image](https://user-images.githubusercontent.com/69002877/153779467-c24c8659-e773-4824-ae1f-b393f4026a22.png)
+![localhost_3000_ (4)](https://user-images.githubusercontent.com/69002877/156893617-705a510b-f7c0-468d-be1a-a2e01f634b3a.png)
+
 
 ## Todo List
 ![image](https://user-images.githubusercontent.com/69002877/153978062-c08b019c-f47b-45e3-931e-89ccedb14425.png)
